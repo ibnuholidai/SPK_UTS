@@ -1,7 +1,7 @@
 # Tugas UAS SPK
-Nama : Obi Agustian<br>
-NIM : 201011400884<br>
-Kelas : 07-TPLP-013<br>
+Nama : Ibnu Saputra <br>
+NIM : 201011400588 <br>
+Kelas : 07-TPLP-013 <br>
 
 ## Install requirements
 ```pip install -r requirements.txt```
@@ -9,11 +9,3 @@ Kelas : 07-TPLP-013<br>
 ## Run the app
 Untuk menjalankan:
 ```python main.py```
-
-## Usage
-Install postman:
-[`Postman`](https://www.postman.com/downloads/)
-
-## Hasil
-<img src='screenshot/Screenshot hasil.png' alt='Screenshot Hasil'/>
-
